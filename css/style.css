@@ -1,0 +1,48 @@
+.banner{
+	background: url(../img/banner-img.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	min-height: 100vh;
+}
+.text-position{
+	margin: 150px 0;
+}
+
+.mid-part{}
+footer{
+	background-color: #F8F8F8;
+}
+.social-link{
+    list-style:  none;
+    padding: 0;
+    margin-top: 15px;
+}
+.fb{
+    padding: 10px 14px!important;
+}
+.social-link li{
+    display:  inline-block;
+    margin-right: 10px;
+}
+.social-link li a{
+    
+}
+
+.social-link li a i{
+	padding: 10px 11px;
+	border: 1px solid #666;
+	color: #666;
+}
+.social-link li a i:hover{
+	background-color: #007BFF;
+	color: #fff!important;
+}
+.text-bold{
+	font-weight: 800;
+}
+.navbar-toggler-icon{
+
+}
+.text-blue{
+	color: #0828CB;
+}
